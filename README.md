@@ -19,5 +19,5 @@
 
 ---
 
-> *"Initial models usually are naive and superficial, based on shallow knowledge"*  
+> #### *"Initial models usually are naive and superficial, based on shallow knowledge"*
 > *Eric Evans*
