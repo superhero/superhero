@@ -1,4 +1,7 @@
-# [superhero.github.io](https://superhero.github.io)
+
+<h1 align="center">
+  <a href="https://superhero.github.io">superhero.github.io</a>
+</h1>
 
 ---
 
