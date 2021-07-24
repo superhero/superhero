@@ -1,16 +1,38 @@
-### Hi there 👋
+# superhero.github.io <-- (still working on it)...
 
-<!--
-**superhero/superhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Quotes...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Initial models usually are naive and superficial, based on shallow knowledge"
+> - Eric Evans
+
+> “It’s not the clients job to know what they want”
+> - Steve Jobs
+
+> "The true sign of intelligence is not knowledge but imagination" 
+> - Unknown
+
+> "Strong minds discuss ideas, average minds discuss events, weak minds discuss people" 
+> - Socrates
+
+> "With individuals madness is something rare - but with groups, parties, peoples, and ages it's the rule" 
+> - Nietzsche
+
+> "Anything that can go wrong will go wrong" 
+> - Murphy's law
+
+> "The square root of any group of people who do the same work, does 50% of all the work that the group does together"
+> - Price’s Law 
+
+> "That which offers no resistence, overcomes the hardest substances"
+> - TAOISM | The Philosophy Of Flow
+
+> "I have to change the world, or be changed by the world"
+> - Tupac Shakur
+
+> "If education is the key, then schools are the lock"
+> - Suli Breaks
+
+> "Are you as educated as you are inteligent?"
+> - Jordan Peterson
