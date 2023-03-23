@@ -1,7 +1,8 @@
 
-<h1 align="center">
+<h3 align="center">
   <a href="https://superhero.github.io">superhero.github.io</a>
-</h1>
+</h3>
+<br>
 
 | Componenet         | Version | Downloads |
 | :----------------- | :------ | :-------- |
