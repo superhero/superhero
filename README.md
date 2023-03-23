@@ -1,6 +1,5 @@
-<div style="float:left">
 <br>
-<h3 align="center">
+<h3 align="left">
   <a href="https://superhero.github.io">superhero.github.io</a>
 </h3>
 <br>
@@ -25,4 +24,3 @@
 
 > #### *"Initial models usually are naive and superficial, based on shallow knowledge"*
 > *Eric Evans*
-</div>
